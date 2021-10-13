@@ -46,5 +46,6 @@ public class HomeController {
         }
         model.addAttribute("discussPosts", discussPosts);
         return "/index";
+        //12341234test
     }
 }
